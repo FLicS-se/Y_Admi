@@ -1,0 +1,150 @@
+body
+{
+    font-family: Meiriyo;
+}
+
+#site-box
+{
+    //background: #eeeeee;
+    width: 800px;
+    height: 740px;
+    margin: 5px auto;
+}
+
+#title
+{
+    //background: pink;
+    height: 110px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+#reserv
+{
+    width: 360px;
+    height: 460px;
+    border: 2px solid;
+    //background: yellow;
+    position: relative;
+    top: 52px;
+    left: 216px; 
+}
+
+dt
+{
+    font-size: 20px;
+    position:relative;
+}
+
+.input
+{
+    font-size: 15px;
+    width: 120;
+    position: relative;
+    top: 8px;
+    right: 20px;
+}
+
+#input_num
+{
+    font-size: 15px;
+    width: 46px;
+    position: relative;
+    top: 8px;
+    right: 20px;
+}
+
+#input_date
+{
+   font-size: 15px;
+   width: 82px;
+    position: relative;
+    top: 8px;
+    right: 20px;
+}
+
+#input_time
+{
+    font-size: 15px;
+    width: 62px;
+    position: relative;
+    top: 8px;
+    //right: 40px;
+}
+
+#name
+{
+    //background: green;
+    height: 80px;
+    position: relative;
+    top: 16px;
+}
+
+#num
+{ 
+    //background: lightblue;
+    height: 80px;
+    position: relative;
+    top: 20px;
+}
+
+#date
+{
+    //background: pink;
+    height: 80px;
+    position: relative;
+    top: 16px;
+}
+
+#time
+{
+   // background: lightgreen;
+    height: 80px;
+    position: relative;
+    top: 28px;
+}
+
+#submit
+{
+    //background: green;
+    width: 182px;
+    height: 80px;
+    position: relative;
+    left: 736px;
+    top: -282px;
+}
+
+#back
+{
+    //background: lightgreen;
+    width: 182px;
+    height: 80px;
+    position: relative;
+    left: 736px;
+    top: -280px;
+}
+
+#submit_button
+{
+     width: 180px;
+     height: 2em;
+     font-size: 30px;
+     left: 200px;
+     position: relative;
+}
+
+#back_button
+{
+    width: 180px;
+    height: 2em;
+    font-size: 30px;
+    left: 200px;
+    position: relative;
+}
+                                                              95,1          Bot
+

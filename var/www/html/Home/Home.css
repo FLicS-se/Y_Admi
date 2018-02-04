@@ -1,0 +1,116 @@
+body
+{
+    font-family: Meiriyo;
+}
+
+#site-box{
+    //background: #eeeeee;
+    width: 800px;
+    height: 680px;
+    margin: 5px auto  	
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+p
+{
+    font-size: 20px;
+    position: relative;
+    top: 65px;
+}
+
+#title{
+    height: 300px;
+}
+
+
+#tenpo{
+    float: left;
+    width: 250px;
+    height: 150px;
+}
+
+#menu{
+    float: left;
+    width: 300px;
+    height: 150px;
+}
+
+#reserv{
+    float: left;
+    width: 250px;
+    height: 150px;
+}
+   
+#logout{
+    clear: left;
+    width: 800px;
+    height: 80px;
+}
+
+#tenpo_button
+{
+    font-size: 30px;
+    //border: 3px solid;
+    width: 200px;
+    height: 3em;
+    position: relative;
+    left: 40px;
+    top: 80px;
+}
+
+#menu_button
+{
+    font-size: 30px;
+    //border: 3px solid;
+    width: 250px;
+    height: 3em;
+    position: relative;
+    left: 25px;
+    top: 80px;
+}
+
+#reserv_button
+{
+    font-size: 30px;
+    //border: 3px solid;
+    width: 200px;
+    height: 3em;
+    position: relative;
+    left: 10px;
+    top: 80px;
+}
+
+#logout_button
+{
+    font-size: 30px;
+    position: relative;
+    left: 590px;
+    top: -270px;
+}
+
+#clock
+{
+    font-size: 20px;
+    position: relative;
+    left: 120px;
+    top: 46px; 
+}
+
+#Clock1
+{
+   font-size: 24px;
+}
+
+#flics
+{
+   //background: blue;
+   width: 200px;
+   position: relative;
+   left: 600px;
+}

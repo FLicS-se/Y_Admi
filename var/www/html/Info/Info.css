@@ -1,0 +1,142 @@
+body
+{
+    font-family: Meriyo;
+}
+
+#site-box
+{
+    //background: #eeeeee;
+    width: 800px;
+    height: 680px;
+    margin: 5px auto;
+}
+
+#title
+{
+    height: 180px;
+}
+
+#info
+{
+    float: left;
+    width: 600px;
+    height: 470px;
+}
+
+#update
+{
+    float: left;
+    width: 200px;
+    height: 100px;
+    position: relative;
+    //top: 298px;
+    top: 152px;
+    left: 20px;
+}
+
+#back
+{
+    clear: left;
+    height: 60px;
+    width: 200px;
+    position: relative;
+    top: -60px;
+    left: 320px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+p
+{
+    font-size: 20px;
+    position: relative;
+    top: 65px;
+}
+
+#name
+{
+    width: 300px;
+}
+
+#about
+{
+    font-size: 20px;
+    width: 500px;
+    height: 180px;
+    overflow: auto;
+}
+
+dt
+{
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+}
+#update_button
+{
+    //width:120px;
+    //height:1.5em;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    width: 180px;
+    height: 2em;
+}
+
+#back_button
+{
+    //width:120px;
+    //height:1.5em;
+    font-size: 30px;
+    width: 180px;
+    height: 2em;
+}
+
+#image
+{
+   // background: lightblue;
+    width: 240px;
+    height: 130px;
+    position: relative;
+    top: -440px;
+    left: 300px;
+}
+
+#photo
+{
+    position: relative;
+    right: 20px;
+    top: -5px;
+}
+
+#sent_button
+{
+    font-size: 20px;
+    width: 120px;
+    height: 2em;
+    position: relative;
+    top: 5px;
+}
+
+#name
+{
+    width: 150px;
+    font-size: 15px;
+}
+
+#num
+{
+    width: 150px;
+    font-size: 14px;
+}
+
+#adre
+{
+    width: 340px;
+    font-size: 15px;
+}

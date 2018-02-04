@@ -1,0 +1,225 @@
+body
+{   
+    font-family: Meriyo;
+}
+
+#site-box
+{   
+    background: #eeeeee;
+    width: 802px;
+    height: 886px;
+    margin: 5px auto;
+}
+
+#title
+{   
+    height: 110px;
+}
+
+#description
+{   
+    background: lightblue;
+    font-size: 20px;
+    height: 28px;
+    position: relative;
+    top: 40px;
+}
+
+#menu
+{   
+    background: yellow;
+    float: left;
+    width: 580px;
+    height: 638px;
+    position: relative;
+    top: 81px;
+}
+
+#update
+{   
+    background: lightgreen;
+    clear: left;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    left: 402px;
+    top: -496px;
+}
+
+#back
+{
+    background: green;
+    clear: left;
+    width: 200px;
+    height: 80px;
+    position: relative;
+    left: 292px;
+    top: -56px;
+}
+
+#taste
+{
+    float: left;
+    background: lightyellow;
+    width: 360px;
+    height: 164px;
+    position: relative;
+    left: 52px;
+    top: 52px;
+}
+
+#sweet1
+{
+    //background: pink;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#saltdry1
+{
+    //background: lightblue;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#acidity1
+{
+    //background: lightgreen;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#bitter1
+{
+    //background: lightyellow;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#tasty1
+{
+    //background: orange;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+.taste_cmb
+{
+    //position: relative;
+    left: 20px;
+}
+
+#image
+{
+    background: green;
+    width: 204px;
+    height: 380px;
+    position: relative;
+    left: 402px;
+    top: -524px;
+}
+
+#photo
+{
+   border: 2px solid;
+}
+
+#img
+{
+   font-size: 10px;
+}
+
+#sent_button
+{
+    width:120px;
+    height:1.5em;
+    font-size: 20px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+#sake_name
+{
+    background: pink;
+
+}
+
+#name_text
+{
+    font-size: 15px;
+    width: 200px;
+    position: relative;
+    right: 20px;
+    top: 8px;
+}
+
+#price
+{
+    //float: left;
+    //width: 200px;
+    height: 70px;
+    background: lightgreen;
+    position: relative;
+    top: 26px;
+    //left: 40px;
+}
+
+#price_text
+{
+   font-size: 15px;
+   width: 60px;
+   position: relative;
+   right: 20px;
+   top: 8px;
+}
+
+#about
+{
+    //clear: left;
+    background: lightblue;
+    //width: 500px;
+    //height: 360px;
+    position: relative;
+    //top: 22px;
+}
+
+#about_text
+{
+   position: relative;
+   right: 20px;
+   top: 8px;
+}
+
+dt
+{
+    font-size: 20px;
+    //position: relative;
+    left: 20px;
+}
+
+#update_button
+{
+    width:120px;
+    height:1.5em;
+    font-size: 30px;
+    //position: relative;
+    top: 10px;
+}
+
+#back_button
+{
+    width:120px;
+    height: 1.5em;
+    font-size: 30px;
+}
+

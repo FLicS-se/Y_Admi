@@ -1,0 +1,90 @@
+body
+{
+    font-family: Meiriyo;
+}
+
+#site-box
+{
+    //background: #eeeeee;
+    width: 800px;
+    height: 752px;
+    margin: 5px auto;
+}
+
+#title
+{
+    height: 135px;
+}
+
+#setumei
+{
+    height: 80px;
+    position: relative;
+    top: -18px;
+}
+
+#login
+{
+    //background: lightblue;
+    height: 400px;
+    position: relative;
+    top: -32px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+p
+{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+}
+
+#ID
+{
+    font-size: 30px;
+    position: relative;
+    top: 46px;
+}
+
+#ID_text
+{
+    font-size: 15px;
+    position: relative;
+    top: -6px;
+}
+
+#PW
+{
+    font-size: 30px;
+    position: relative;
+    top: 46px;
+    right: 10px;
+}
+
+#PW_text
+{
+    font-size: 15px;
+    position: relative;
+    top: -6px;
+}
+
+#sent_button
+{
+    font-size: 30px;
+    width: 350px;
+    height: 2em;
+    position: relative;
+    right: 15px;
+    top: 70px;
+}
+
+#flics
+{
+  // background: lightgreen;
+}

@@ -1,0 +1,101 @@
+body
+{
+    font-family: Meiriyo;
+}
+
+#site-box
+{
+    //background: #eeeeee;
+    width: 800px;
+    height: 680px;
+    margin: 5px auto;
+}
+
+#title
+{
+    //background: pink;
+    height: 110px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+#info
+{
+    //background: lightgreen;
+    height: 96px;
+    position: relative;
+    top: -18px;
+}
+
+p
+{
+    font-size: 20px;
+    position: relative;
+    top: 50px;
+}
+
+#reserv
+{
+    width: 620px;
+    height: 460px;
+    //background: yellow;
+    position: relative;
+    top: -16px;
+}
+
+#member
+{
+    position: relative;
+    left: 102px;
+}
+
+#subscriber
+{
+    //background: pink;
+    width: 560px;
+    height: 380px;
+    //border: 2px solid;
+    //overflow: scroll;
+    position: relative;
+    left: 100px;
+    top: 36px;
+}
+
+#insert
+{
+    //background: green;
+    width: 140px;
+    height: 80px;
+    position: relative;
+    left: 670px;
+    top: -106px;
+}
+
+#back
+{
+    //background: lightgreen;
+    width: 140px;
+    height: 80px;
+    position: relative;
+    left: 670px;
+    top: -100px;
+}
+
+#insert_button
+{
+     width: 180px;
+     height: 2em;
+     font-size: 30px;
+}
+
+#back_button
+{
+    width: 180px;
+    height: 2em;
+    font-size: 30px;
+}

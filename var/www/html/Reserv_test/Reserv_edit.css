@@ -1,0 +1,154 @@
+body
+{
+    font-family: Meriyo;
+}
+
+#site-box
+{
+    //background: #eeeeee;
+    width: 802px;
+    height: 886px;
+    margin: 5px auto
+}
+
+#title
+{
+    height: 110px;
+}
+
+#description
+{
+   // background: lightblue;
+    font-size: 20px;
+    height: 28px;
+    position: relative;
+    top: 40px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+#reserv
+{
+    width: 360px;
+    height: 460px;
+    border: 2px solid;
+    //background: yellow;
+    position: relative;
+    top: 68px;
+    left: 216px; 
+}
+
+dt
+{
+    font-size: 20px;
+    position:relative;
+}
+
+.input
+{
+    font-size: 15px;
+    width: 160px;
+    position: relative;
+    top: 8px;
+    right: 20px;
+}
+
+#input_num
+{
+    font-size: 15px;
+    width: 46px;
+    position: relative;
+    top: 8px;
+    right: 20px;
+}
+
+#input_date
+{
+   font-size: 15px;
+   width: 82px;
+    position: relative;
+    top: 8px;
+    right: 20px;
+}
+
+#input_time
+{
+    font-size: 15px;
+    width: 62px;
+    position: relative;
+    top: 8px;
+    //right: 40px;
+    right: 20px;
+}
+
+#name
+{
+    //background: green;
+    height: 80px;
+    position: relative;
+    top: 16px;
+}
+
+#num
+{ 
+    //background: lightblue;
+    height: 80px;
+    position: relative;
+    top: 20px;
+}
+
+#date
+{
+    //background: pink;
+    height: 80px;
+    position: relative;
+    top: 16px;
+}
+
+#time
+{
+   // background: lightgreen;
+    height: 80px;
+    position: relative;
+    //top: 28px;
+}
+
+#update
+{
+    //background: green;
+    width: 182px;
+    height: 80px;
+    position: relative;
+    left: 616px;
+    top: -122px;
+}
+
+#back
+{
+    //background: lightgreen;
+    width: 182px;
+    height: 80px;
+    position: relative;
+    left: 616px;
+    top: -120px;
+}
+
+#update_button
+{
+     width: 180px;
+     height: 2em;
+     font-size: 30px;
+}
+
+#back_button
+{
+    width: 180px;
+    height: 2em;
+    font-size: 30px;
+}
+

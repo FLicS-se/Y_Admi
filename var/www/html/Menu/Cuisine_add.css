@@ -1,0 +1,166 @@
+body
+{
+    font-family: Meriyo;
+}
+
+#site-box
+{
+    //background: #eeeeee;
+    width: 802px;
+    height: 686px;
+    margin: 5px auto;
+}
+
+#title
+{
+    height: 110px;
+}
+
+#description
+{
+    //background: lightblue;
+    font-size: 20px;
+    height: 28px;
+    position: relative;
+    top: 40px;
+}
+
+#menu
+{
+    //background: yellow;
+    float: left;
+    width: 600px;
+    height: 498px;
+    position: relative;
+    top: 41px;
+}
+
+#update
+{
+    //background: lightgreen;
+    clear: left;
+    width: 200px;
+    height: 80px;
+    position: relative;
+    left: 301px;
+    top: -122px;
+}
+
+#back
+{
+    //background: green;
+    clear: left;
+    width: 200px;
+height: 80px;
+    position: relative;
+    left: 301px;
+    top: -112px;
+}
+
+#taste
+{
+    float: left;
+    //background: lightyellow;
+    width: 360px;
+    height: 200px;
+    position: relative;
+    left: 36px;
+    //top: 50px;
+}
+
+#taste_cmb
+{
+    //background: lightblue;
+    width: 160px;
+    height: 60px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+
+#cmb
+{
+   font-size: 20px;
+   position: relative;
+   left: 20px;
+}
+
+#image
+{
+    //background: green;
+    width: 200px;
+    position: relative;
+    left: 301px;
+    top: -602px;
+}
+
+#img
+{
+   font-size: 10px;
+}
+
+#sent_button
+{
+    width:120px;
+height:1.5em;
+    font-size: 20px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+#sake_name
+{
+    //background: pink;
+
+}
+
+#name_text
+{
+    font-size: 15px;
+    width: 260px;
+}
+
+#price
+{
+    float: left;
+    width: 200px;
+    height: 100px;
+    //background: lightgreen;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+
+#price_text
+{
+   font-size: 15px;
+}
+
+dt
+{
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+}
+
+#update_button
+{
+    width:120px;
+    height:1.5em;
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+}
+
+#back_button
+{
+    width:120px;
+    height: 1.5em;
+    font-size: 30px;
+}
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>ふらっとやまだ: 予約者一覧</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="Reserv.css"/>
+</head>
+
+<body>
+<div id="site-box">
+
+<center>
+
+<div id="title">
+<h1>予約者一覧</h1>
+<p>予約者の一覧です。予約者を案内後は更新をしてください。</p>
+</div>
+
+<div id="reserv">
+<div id="reserv1">
+<ul>
+<li><input id="reserv" type="checkbox" name="re[]" value="予約者1" />
+<label for="re_1"> 山田太郎 </label></li>
+</ul>
+</div>
+
+<div id="reserv2">
+<ul>
+<li><input id="reserv" type="checkbox" name="re[]" value="鏡野太郎" />
+<label for="re_1"> 鏡野太郎 </label></li>
+</ul>
+</div>
+</div>
+
+</dd>
+</dl>
+
+<div id="update">
+<form action="Menu_update.php" method="post">
+<input id="update_button" type="submit" value="同期" >
+</form>
+</div>
+
+<div id="back">
+<form action="./Reserv_unjump.php" method="post">
+<input id="back_button" type="submit" value="戻る">
+</form>
+</div>
+
+</center>
+
+</div>
+</body>
+</html>

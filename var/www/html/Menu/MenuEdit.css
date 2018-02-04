@@ -1,0 +1,368 @@
+
+body
+{
+    font-family: Meriyo;
+}
+
+#site-box
+{
+    //background: #eeeeee;
+    width: 802px;
+    height: 886px;
+    margin: 5px auto
+}
+
+#site-box_add
+{
+    //background: #eeeeee;
+    width: 802px;
+    height: 806px;
+    margin: 5px auto
+}
+
+#site-box_cuisine
+{
+    //background: #eeeeee;
+    width: 802px;
+    height: 700px;
+    margin: 5px auto
+}
+
+#title
+{
+    height: 110px;
+}
+
+#description
+{
+    //background: lightblue;
+    font-size: 20px;
+    height: 28px;
+    position: relative;
+    top: 40px;
+}
+
+#menu
+{
+    //background: yellow;
+    float: left;
+    width: 580px;
+    height: 638px;
+    position: relative;
+    top: 81px;
+}
+
+#delete
+{
+    //background: blue;
+    clear: left;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    left: 272px;
+    top: -69px;
+}
+
+#update
+{
+    //background: lightgreen;
+    clear: left;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    left: 384px;
+    top: -496px;
+}
+
+#back
+{
+    //background: green;
+    clear: left;
+    width: 200px;
+    height: 80px;
+    position: relative;
+    left: 272px;
+    top: -52px;
+}
+
+#taste
+{
+    //float: left;
+    //background: blue;
+    //width: 360px;
+    height: 164px;
+    position: relative;
+    left: 52px;
+    top: 52px;
+}
+
+#sweet1
+{ 
+    //background: pink;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#saltdry1
+{
+    //background: lightblue;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#acidity1
+{
+    //background: lightgreen;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#bitter1
+{
+    //background: lightyellow;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+#tasty1
+{
+    //background: orange;
+    float: left;
+    width: 95px;
+    height: 160px;
+}
+
+.taste_cmb
+{
+   //font-size: 10px;
+   //position: relative;
+   left: 20px;
+}
+
+#image
+{
+    //border: 1px solid;
+    //background: green;
+    width: 204px;
+    height: 380px;
+    position: relative;
+    left: 382px;
+    top: -524px;
+}
+
+#photo
+{
+    
+    border: 0px solid;
+}
+#img
+{
+    font-size: 10px;
+}
+
+#sent_button
+{
+    width:120px;
+    height:1.5em;
+    font-size: 20px;
+}
+
+h1
+{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+}
+
+#sake_name
+{ 
+    //background: pink;
+
+}
+
+#name_text
+{
+    font-size: 15px;
+    width: 200px;
+    position: relative;
+    right: 20px;
+    top: 8px;
+}
+
+#price
+{
+    //float: left;
+    //width: 200px;
+    height: 70px;
+    //background: green;
+    position: relative;
+    top: 26px;
+    //left: 40px;
+}
+
+#price_text
+{
+    font-size: 15px;
+    width: 60px;
+    position: relative;
+    right: 20px;
+    top: 8px;
+}
+
+#about
+{
+    //clear: left;
+    //background: lightblue;
+    //width: 500px;
+    //height: 260px;
+    position: relative;
+    //top: 22px;
+}
+
+#about_text
+{
+    position: relative;
+    right: 28px;
+    top: 8px;
+}
+dt
+{
+    font-size: 20px;
+    //position: relative;
+    left: 20px;
+}
+
+#update_button
+{
+    //width:120px;
+    //height:1.5em;
+    font-size: 30px;
+    //position: relative;
+    //top: 30px;
+    width: 180px;
+    height: 2em;
+}
+
+#delete_button
+{
+    //width:120px;
+    //height:1.5em;
+    font-size: 30px;
+    //position: relative;
+    //top: 16px;
+    width: 180px;
+    height: 2em;
+}
+#back_button
+{
+    //width:120px;
+    //height:1.5em;
+    font-size: 30px;
+    width: 180px;
+    height: 2em;
+}
+
+#image_add
+{
+    //width: 204px;
+    //height: 380px;
+    position: relative;
+    top: 82px;
+    right: 20px;
+}
+
+#photo_add
+{
+    //border: 2px solid;
+}
+
+#update_add
+{
+    //width: 200px;
+    //height: 60px;
+    position: relative;
+    top: 360px;
+    right: 20px;
+}
+
+#back_add
+{
+    //width: 200px;
+    //height: 80px;
+    position: relative;
+    top: 400px;
+    right: 20px;
+}
+
+#image_cuisine
+{
+    width: 204px;
+    height: 160px;
+    //background: pink;
+    position: relative;
+    top: -304px;
+    left: 362px;
+}
+
+#update_cuisine_add
+{
+    width: 200px;
+    height: 60px;
+   //background: green;
+    position: relative;
+    top: -166px;
+    left: 364px;
+}
+
+#back_cuisine_add
+{
+    width: 200px;
+    height: 60px;
+    //background: blue;
+    position: relative;
+    top: -150px;
+    left: 364px;
+}
+
+#image_cuisine_edit
+{
+    //background: pink;
+    width: 204px;
+    height: 160px;
+    position: relative;
+    top: -312px;
+    left: 364px;
+}
+
+#delete_cuisine_edit
+{
+    //background: green;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    top: -166px;
+    left: 364px;
+}
+
+#update_cuisine_edit
+{ 
+    width: 200px;
+    height: 60px;
+    //background: green;
+    position: relative;
+    top: -182px;
+    left: 364px;
+}
+#back_cuisine_edit
+{
+    width: 200px;
+    height: 60px;
+    //background: blue;
+    position: relative;
+    top: -150px;
+    left: 364px;
+}

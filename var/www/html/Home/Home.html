@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>ホーム画面</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="Home.css"/>
+</head>
+
+<body>
+<div id="site-box">
+<div id="title">
+
+<center>
+<h1>ふらっとやまだ管理システム</h1>
+<p>各種、閲覧・編集を行いたい場合は以下のボタンを押してください。</p>
+</center>
+
+<div id="clock">
+<p id="Clock1" style="display: inline"></p>
+<script type="text/javascript">
+setInterval('showClock1()', 1000);
+function showClock1() {
+var DWs = new Array('Sun.','Mon.','Tue.','Wed.','Thu.','Fri.','Sat.');
+var Now = new Date();
+var YY = Now.getYear();
+if (YY < 2000) { YY += 1900; }
+var MM = set0(Now.getMonth() + 1);
+var DD = set0(Now.getDate());
+var DW = DWs[Now.getDay()];
+var hh = set0(Now.getHours());
+var mm = set0(Now.getMinutes());
+var ss = set0(Now.getSeconds());
+var RTime1 = '' + YY + '.' + MM + '.' + DD + '(' + DW + ')' + hh + ':' + mm + ':' + ss + '';
+document.getElementById("Clock1").innerHTML = RTime1;
+}
+
+function set0(num) {
+var ret;
+if (num < 10) { ret = "0" + num; }
+else { ret = num; }
+return ret;
+}
+
+</script>
+</div>
+</div>
+
+<div id="tenpo">
+<form action="../Info/Info_jump.php" method="post">
+<input id="tenpo_button" type="submit" value="店舗情報" />
+</form>
+</div>
+
+<div id="menu">
+<form action="../Menu/Menu_jump.php" method="post">
+<input id="menu_button" type="submit" value="お品書き管理" />
+</form>
+</div>
+
+<div id="reserv">
+<form action="../Reserv_test/Reserv_jump.php" method="post">
+<input id="reserv_button" type="submit" value="予約者一覧" />
+</form>
+</div>
+
+<div id="logout">
+<form>
+<p><a id="logout_button" href="../Login/Login.html">ログアウト</a></p>
+</form>
+</div>
+
+<!--FLicSのロゴを表示-->
+    <div id="flics">
+    <img src="flics.jpg" width="200" height="120">
+    </div>
+
+
+</div>
+</body>
+
+</html>
